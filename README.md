@@ -1,2 +1,1 @@
-# TinDog
-TinDog startup landing page (tinder spoof site)
+TinDog Starting Files
